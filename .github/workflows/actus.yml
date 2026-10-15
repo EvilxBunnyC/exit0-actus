@@ -1,0 +1,44 @@
+name: Actus Discord
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Jamais deux passages en même temps : ils se disputeraient etat.json.
+concurrency:
+  group: actus
+  cancel-in-progress: false
+
+jobs:
+  poster:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Poster les nouveaux articles
+        run: node actus.js
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          ROLE_NOTIFICATION: ${{ vars.ROLE_NOTIFICATION }}
+
+      # S'exécute même si une source a échoué, pour ne pas reposter ce qui est déjà parti.
+      - name: Enregistrer les articles déjà postés
+        if: always()
+        run: |
+          [ -f etat.json ] || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add etat.json
+          git diff --cached --quiet || (git commit -m "Articles postés" && git push)
