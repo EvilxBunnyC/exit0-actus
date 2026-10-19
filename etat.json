@@ -42,6 +42,7 @@
     "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2015-ALE-009/"
   ],
   "cert-actus": [
+    "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-044/",
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-043/",
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-042/",
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-041/",
@@ -78,10 +79,10 @@
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-010/",
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-009/",
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-008/",
-    "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-007/",
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-003/",
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2015-ACT-006/",
-    "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2014-ACT-004/"
+    "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2014-ACT-004/",
+    "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-007/"
   ],
   "cybermalveillance": [
     "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/lettres-d-information",
@@ -147,6 +148,7 @@
     "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html"
   ],
   "itconnect": [
+    "https://www.it-connect.fr/?p=117892",
     "https://www.it-connect.fr/?p=117694",
     "https://www.it-connect.fr/?p=117883",
     "https://www.it-connect.fr/?p=117876",
@@ -233,6 +235,8 @@
     "https://korben.info/googlebook-root-magisk.html"
   ],
   "thehackernews": [
+    "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+    "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
     "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
     "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
     "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
