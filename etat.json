@@ -108,6 +108,7 @@
     "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/donnees-perso-piratage-compte-ra25"
   ],
   "zataz": [
+    "https://www.zataz.com/?p=48290",
     "https://www.zataz.com/?p=48272",
     "https://www.zataz.com/?p=48269",
     "https://www.zataz.com/?p=48266",
@@ -167,6 +168,7 @@
     "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html"
   ],
   "itconnect": [
+    "https://www.it-connect.fr/?p=117961",
     "https://www.it-connect.fr/?p=117960",
     "https://www.it-connect.fr/?p=116858",
     "https://www.it-connect.fr/?p=117956",
@@ -264,6 +266,9 @@
     "https://korben.info/googlebook-root-magisk.html"
   ],
   "thehackernews": [
+    "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+    "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+    "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
     "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
     "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
     "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
