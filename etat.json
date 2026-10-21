@@ -1,5 +1,6 @@
 {
   "cert-alertes": [
+    "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/",
     "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-013/",
     "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-012/",
     "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/",
@@ -37,9 +38,9 @@
     "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-008/",
     "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/",
     "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/",
-    "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/",
     "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/",
-    "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2015-ALE-009/"
+    "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2015-ALE-009/",
+    "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/"
   ],
   "cert-actus": [
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-044/",
@@ -107,6 +108,12 @@
     "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/donnees-perso-piratage-compte-ra25"
   ],
   "zataz": [
+    "https://www.zataz.com/?p=48243",
+    "https://www.zataz.com/?p=48228",
+    "https://www.zataz.com/?p=48221",
+    "https://www.zataz.com/?p=48217",
+    "https://www.zataz.com/?p=48211",
+    "https://www.zataz.com/?p=48208",
     "https://www.zataz.com/?p=48203",
     "https://www.zataz.com/?p=48199",
     "https://www.zataz.com/?p=48191",
@@ -130,6 +137,8 @@
     "https://www.zataz.com/?p=48058"
   ],
   "numerama": [
+    "https://www.numerama.com/cyberguerre/2357673-des-millions-de-freebox-exposees-aux-failles-php-quel-risque-pour-les-abonnes.html",
+    "https://www.numerama.com/cyberguerre/2357519-on-a-un-probleme-une-faille-de-securite-absurde-met-internet-en-alerte.html",
     "https://www.numerama.com/cyberguerre/2356567-vous-narrivez-pas-a-payer-avec-revolut-cest-normal-il-y-a-une-panne.html",
     "https://www.numerama.com/cyberguerre/2356515-supervision-humaine-minimale-larmee-americaine-veut-envoyer-des-agents-ia-pirater-ses-ennemis.html",
     "https://www.numerama.com/cyberguerre/2354083-des-frigos-de-supermarches-pirates-partout-en-france-le-fosse-invisible-de-lia-et-les-bots-russes-toujours-actifs-malgre-les-frappes-sur-yandex-on-vous-raconte-la-semaine-cyberguerre.html",
@@ -152,6 +161,9 @@
     "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html"
   ],
   "itconnect": [
+    "https://www.it-connect.fr/?p=116858",
+    "https://www.it-connect.fr/?p=117956",
+    "https://www.it-connect.fr/?p=117952",
     "https://www.it-connect.fr/?p=117926",
     "https://www.it-connect.fr/?p=117923",
     "https://www.it-connect.fr/?p=117915",
@@ -246,6 +258,11 @@
   ],
   "thehackernews": [
     "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+    "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+    "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+    "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+    "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+    "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
     "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
     "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
     "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
