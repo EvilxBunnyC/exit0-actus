@@ -86,6 +86,7 @@
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-007/"
   ],
   "cybermalveillance": [
+    "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/alerte-cyber-failles-de-securite-critiques-dans-php-202610",
     "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/lettres-d-information",
     "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/cybermois-2026-campagne",
     "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/cybertour-france-2026",
@@ -169,6 +170,8 @@
     "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html"
   ],
   "itconnect": [
+    "https://www.it-connect.fr/?p=118012",
+    "https://www.it-connect.fr/?p=118005",
     "https://www.it-connect.fr/?p=117995",
     "https://www.it-connect.fr/?p=117983",
     "https://www.it-connect.fr/?p=117976",
@@ -271,6 +274,14 @@
     "https://korben.info/googlebook-root-magisk.html"
   ],
   "thehackernews": [
+    "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+    "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+    "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+    "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+    "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+    "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+    "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+    "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
     "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
     "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
     "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
