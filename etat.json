@@ -143,6 +143,7 @@
     "https://www.zataz.com/?p=48058"
   ],
   "numerama": [
+    "https://www.numerama.com/tech/2358601-failles-critiques-dans-php-comment-savoir-si-son-site-est-touche-et-quelle-version-du-langage-est-utilisee.html",
     "https://www.numerama.com/cyberguerre/2358171-des-defauts-de-securisation-elementaires-suite-au-piratage-des-frigos-des-consignes-de-base-ignorees-depuis-trop-longtemps.html",
     "https://www.numerama.com/cyberguerre/2357673-des-millions-de-freebox-exposees-aux-failles-php-quel-risque-pour-les-abonnes.html",
     "https://www.numerama.com/cyberguerre/2357519-on-a-un-probleme-une-faille-de-securite-absurde-met-internet-en-alerte.html",
@@ -168,6 +169,9 @@
     "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html"
   ],
   "itconnect": [
+    "https://www.it-connect.fr/?p=117995",
+    "https://www.it-connect.fr/?p=117983",
+    "https://www.it-connect.fr/?p=117976",
     "https://www.it-connect.fr/?p=117961",
     "https://www.it-connect.fr/?p=117960",
     "https://www.it-connect.fr/?p=116858",
@@ -213,6 +217,7 @@
     "https://www.it-connect.fr/?p=117549"
   ],
   "korben": [
+    "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures.html",
     "https://korben.info/faille-wps-broadcom-routeurs-wifi.html",
     "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur.html",
     "https://korben.info/korben-remote-desktop.html",
@@ -266,6 +271,7 @@
     "https://korben.info/googlebook-root-magisk.html"
   ],
   "thehackernews": [
+    "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
     "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
     "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
     "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
