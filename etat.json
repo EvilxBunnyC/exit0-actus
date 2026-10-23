@@ -110,6 +110,8 @@
     "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/donnees-perso-piratage-compte-ra25"
   ],
   "zataz": [
+    "https://www.zataz.com/?p=48305",
+    "https://www.zataz.com/?p=48302",
     "https://www.zataz.com/?p=48290",
     "https://www.zataz.com/?p=48272",
     "https://www.zataz.com/?p=48269",
@@ -145,6 +147,8 @@
     "https://www.zataz.com/?p=48058"
   ],
   "numerama": [
+    "https://www.numerama.com/tech/2359721-1password-permet-aux-agents-ia-de-se-connecter-a-vos-comptes-avec-la-promesse-de-ne-jamais-exposer-vos-mots-de-passe.html",
+    "https://www.numerama.com/tech/2359611-vous-avez-deteste-les-failles-critiques-de-php-le-chef-de-la-securite-danthropic-previent-que-ca-va-etre-pire.html",
     "https://www.numerama.com/tech/2358601-failles-critiques-dans-php-comment-savoir-si-son-site-est-touche-et-quelle-version-du-langage-est-utilisee.html",
     "https://www.numerama.com/cyberguerre/2358171-des-defauts-de-securisation-elementaires-suite-au-piratage-des-frigos-des-consignes-de-base-ignorees-depuis-trop-longtemps.html",
     "https://www.numerama.com/cyberguerre/2357673-des-millions-de-freebox-exposees-aux-failles-php-quel-risque-pour-les-abonnes.html",
@@ -171,6 +175,7 @@
     "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html"
   ],
   "itconnect": [
+    "https://www.it-connect.fr/?p=118069",
     "https://www.it-connect.fr/?p=118055",
     "https://www.it-connect.fr/?p=118052",
     "https://www.it-connect.fr/?p=118048",
@@ -281,6 +286,10 @@
     "https://korben.info/googlebook-root-magisk.html"
   ],
   "thehackernews": [
+    "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+    "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+    "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+    "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
     "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
     "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
     "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
