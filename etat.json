@@ -148,7 +148,7 @@
     "https://www.zataz.com/?p=48058"
   ],
   "numerama": [
-    "https://www.numerama.com/tech/2359721-1password-permet-aux-agents-ia-de-se-connecter-a-vos-comptes-avec-la-promesse-de-ne-jamais-exposer-vos-mots-de-passe.html",
+    "https://www.numerama.com/tech/2359721-1password-a-un-plan-pour-laisser-les-agents-ia-acceder-a-vos-comptes-sans-exposer-vos-mots-de-passe.html",
     "https://www.numerama.com/tech/2359611-vous-avez-deteste-les-failles-critiques-de-php-le-chef-de-la-securite-danthropic-previent-que-ca-va-etre-pire.html",
     "https://www.numerama.com/tech/2358601-failles-critiques-dans-php-comment-savoir-si-son-site-est-touche-et-quelle-version-du-langage-est-utilisee.html",
     "https://www.numerama.com/cyberguerre/2358171-des-defauts-de-securisation-elementaires-suite-au-piratage-des-frigos-des-consignes-de-base-ignorees-depuis-trop-longtemps.html",
@@ -163,6 +163,7 @@
     "https://www.numerama.com/cyberguerre/2353507-sous-le-capot-ce-sont-des-llm-le-modele-dia-jev-a-beau-ne-pas-ecrire-il-nechappe-pas-a-linjection-de-prompt.html",
     "https://www.numerama.com/cyberguerre/2353327-on-navait-pas-cette-culture-de-la-securite-michel-edouard-leclerc-patauge-en-direct-apres-le-piratage-des-frigos-des-supermarches.html",
     "https://www.numerama.com/tech/2352853-remote-reaper-ce-jeu-de-drone-a-ete-concu-avec-des-pilotes-militaires-ukrainiens-et-ca-se-voit.html",
+    "https://www.numerama.com/tech/2359721-1password-permet-aux-agents-ia-de-se-connecter-a-vos-comptes-avec-la-promesse-de-ne-jamais-exposer-vos-mots-de-passe.html",
     "https://www.numerama.com/cyberguerre/2352099-frigos-pirates-dans-les-supermarches-les-grandes-enseignes-ont-un-coupable-tout-designe.html",
     "https://www.numerama.com/cyberguerre/2352205-cest-lhecatombe-apres-danfoss-un-deuxieme-fournisseur-de-systemes-frigorifiques-est-vise-par-des-hackers.html",
     "https://www.numerama.com/cyberguerre/2351867-implants-espions-dans-des-ledger-les-detenteurs-de-cryptomonnaies-doutent-desormais-de-toute-la-chaine-de-distribution.html",
@@ -290,6 +291,9 @@
     "https://korben.info/googlebook-root-magisk.html"
   ],
   "thehackernews": [
+    "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+    "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+    "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
     "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
     "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
     "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
