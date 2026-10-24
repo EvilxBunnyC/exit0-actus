@@ -296,8 +296,10 @@
     "https://korben.info/googlebook-root-magisk.html"
   ],
   "thehackernews": [
-    "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
     "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+    "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+    "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+    "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
     "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
     "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
     "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
