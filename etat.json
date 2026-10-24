@@ -110,6 +110,8 @@
     "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/donnees-perso-piratage-compte-ra25"
   ],
   "zataz": [
+    "https://www.zataz.com/?p=48347",
+    "https://www.zataz.com/?p=48326",
     "https://www.zataz.com/?p=48318",
     "https://www.zataz.com/?p=48305",
     "https://www.zataz.com/?p=48302",
@@ -148,6 +150,7 @@
     "https://www.zataz.com/?p=48058"
   ],
   "numerama": [
+    "https://www.numerama.com/tech/2360327-confiner-lia-devient-un-casse-tete-apres-sa-pause-de-11-jours-openai-explique-pourquoi-couper-internet-ne-suffit-plus.html",
     "https://www.numerama.com/cyberguerre/2360107-grosse-panne-revolut-vulnerabilites-php-et-loupe-monumental-en-inde-le-recap-cyber-de-la-semaine.html",
     "https://www.numerama.com/tech/2359721-1password-a-un-plan-pour-laisser-les-agents-ia-acceder-a-vos-comptes-sans-exposer-vos-mots-de-passe.html",
     "https://www.numerama.com/tech/2359611-vous-avez-deteste-les-failles-critiques-de-php-le-chef-de-la-securite-danthropic-previent-que-ca-va-etre-pire.html",
@@ -293,6 +296,9 @@
     "https://korben.info/googlebook-root-magisk.html"
   ],
   "thehackernews": [
+    "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+    "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+    "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
     "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
     "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
     "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
