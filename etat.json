@@ -166,6 +166,7 @@
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-007/"
   ],
   "cybermalveillance": [
+    "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/vigilance-faux-vote-whatsapp",
     "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/alertecyber-failles-securite-php",
     "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/alerte-cyber-failles-de-securite-critiques-dans-php-202610",
     "https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/lettres-d-information",
@@ -391,6 +392,9 @@
     "https://korben.info/googlebook-root-magisk.html"
   ],
   "thehackernews": [
+    "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+    "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+    "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
     "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
     "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
     "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
