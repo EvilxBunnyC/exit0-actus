@@ -83,6 +83,7 @@
     "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/"
   ],
   "cert-actus": [
+    "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-046/",
     "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-045/",
     "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-044/",
     "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-043/",
@@ -119,10 +120,10 @@
     "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-012/",
     "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-011/",
     "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-010/",
-    "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-009/",
     "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-003/",
     "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2015-ACT-006/",
     "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2014-ACT-004/",
+    "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-009/",
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-044/",
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-043/",
     "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-042/",
@@ -232,6 +233,7 @@
     "https://www.zataz.com/?p=48058"
   ],
   "numerama": [
+    "https://www.numerama.com/cyberguerre/2365835-la-cyberattaque-des-frigos-change-dechelle-et-frappe-desormais-des-supermarches-dans-toute-leurope.html",
     "https://www.numerama.com/cyberguerre/2365507-piratage-de-la-switch-2-jeux-natifs-sur-mac-et-iphone-emulation-pc-nintendo-est-dans-une-mauvaise-passe.html",
     "https://www.numerama.com/cyberguerre/2364283-des-hackers-ont-distribue-une-version-piegee-de-claude-code-a-des-milliers-de-developpeurs-mais-se-sont-pris-les-pieds-dans-leur-propre-code.html",
     "https://www.numerama.com/cyberguerre/2364073-qui-a-pu-voler-6-milliards-de-dollars-a-binance-les-enqueteurs-ont-deja-un-suspect-et-il-a-de-lourds-antecedents.html",
@@ -280,6 +282,7 @@
     "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html"
   ],
   "itconnect": [
+    "https://www.it-connect.fr/?p=118200",
     "https://www.it-connect.fr/?p=118221",
     "https://www.it-connect.fr/?p=118622",
     "https://www.it-connect.fr/?p=118556",
@@ -379,6 +382,8 @@
     "https://www.it-connect.fr/?p=117549"
   ],
   "korben": [
+    "https://korben.info/hackerbooks-hackertube-hacker-news.html",
+    "https://korben.info/fausses-alertes-air-alert-fr-alert.html",
     "https://korben.info/arnaques-dopees-ia-comment-se-proteger.html",
     "https://korben.info/test-dun-chargeur-ugreen-160w-qui-cache-un-cable-retractable-et-un-ecran.html",
     "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w.html",
@@ -436,6 +441,11 @@
     "https://korben.info/googlebook-root-magisk.html"
   ],
   "thehackernews": [
+    "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+    "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+    "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+    "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+    "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
     "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
     "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
     "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
